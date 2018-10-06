@@ -54,14 +54,16 @@ group :test do
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem 'chromedriver-helper'
 end
-
+gem 'bootstrap-sass', '3.2.0.2'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery'
 
 gem 'haml-rails', '>= 0.3.4', :group => :development
 gem 'pundit'
-
+gem 'autoprefixer-rails'
+gem 'sprockets'
+gem 'sprockets-rails'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 group :production do
