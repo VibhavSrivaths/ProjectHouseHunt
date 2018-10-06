@@ -1,0 +1,17 @@
+<p id="notice"><%= notice %></p>
+
+<p><b> Company: = @house.company.name</b></p>
+<p><b> User: = @house.user.name </b></p>
+<p><b> Location: = @house.location </b></p>
+<p><b> Area: = @house.area </b></p>
+<p><b> Style: = @house.style </b></p>
+<p><b> Price: = @house.price </b></p>
+<p><b> Floors: = @house.floors</b></p>
+<p><b> Owner: = @house.owner</b></p>
+<p><b> Phone: =@house.phone</b></p>
+<p><b> Email: =@house.email</b></p>
+<p><b>
+
+  <%= link_to 'Edit', edit_house_path(@house), :class => 'button-xs'%>
+  <%= link_to 'Back', houses_path, :class => 'button-xs'%>
+</b></p>

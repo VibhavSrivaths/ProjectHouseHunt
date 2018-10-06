@@ -1,0 +1,10 @@
+<h1>Editing User</h1>
+
+<div class="authform">
+  <%= form_for @user, :url => user_path(@user), :html => {:method => :put} do |form| %>
+    <%= render form %>
+    <%= form.submit 'Update', :class => 'button right' %>
+  <% end %>
+</div>
+<%= link_to 'Show', @user %> |
+<%= link_to 'Back', users_path %>
