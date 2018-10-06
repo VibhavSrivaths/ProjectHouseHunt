@@ -63,7 +63,7 @@ gem 'haml-rails', '>= 0.3.4', :group => :development
 gem 'pundit'
 gem'jquery'
 gem 'jquery-rails'
-
+gem 'jquery-ui-rails'
 group :production do
   gem 'pg'
   gem 'rails_12factor'

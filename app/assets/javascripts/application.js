@@ -16,3 +16,4 @@
 //= require bootstrap-sprockets
 //= require popper
 //= require_tree .
+//= require jquery-ui
