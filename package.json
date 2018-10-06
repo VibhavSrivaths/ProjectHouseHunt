@@ -1,5 +1,10 @@
 {
   "name": "ProjectHouseHunter",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VibhavSrivaths/ProjectHouseHunt.git",
+  "author": "Vibhav Srivaths <vibhav97@gmail.com>",
+  "license": "MIT"
 }
