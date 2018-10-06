@@ -17,4 +17,4 @@
 //= require_tree .
 //= require jquery-ui
 //= require jquery3
-//= require bootstrap/dist/js/bootstrap
+//= require bootstrap
