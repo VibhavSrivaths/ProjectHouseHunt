@@ -17,3 +17,4 @@
 //= require popper
 //= require_tree .
 //= require jquery-ui
+//= require jquery3

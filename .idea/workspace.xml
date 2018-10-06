@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fc28b8e-aed7-404a-9be8-9debef94d190" name="Default Changelist" comment="" />
+    <list default="true" id="3fc28b8e-aed7-404a-9be8-9debef94d190" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/jquery3.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery3.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="306">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -271,6 +273,30 @@
             <path>
               <item name="ProjectHouseHunter" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectHouseHunter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ProjectHouseHunter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectHouseHunter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery2.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ProjectHouseHunter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectHouseHunter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery3.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ProjectHouseHunter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectHouseHunter" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -395,25 +421,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538794647607</updated>
-      <workItem from="1538794648764" duration="13088000" />
+      <workItem from="1538794648764" duration="14422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13088000" />
+    <option name="totallyTimeSpent" value="14422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27571115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27571115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32928178" />
       <window_info anchor="bottom" id="Messages" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4989059" visible="true" weight="0.3234649" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4989059" visible="true" weight="0.3234649" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5010941" side_tool="true" weight="0.3234649" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -723,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
