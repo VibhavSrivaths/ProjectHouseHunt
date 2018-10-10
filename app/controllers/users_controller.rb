@@ -1,12 +1,12 @@
 class UsersController < ApplicationController
-  before_action :authenticate_user!
+  before_action :authenticate_with_http_digest
   before_action :set_user, only: [:show, :edit, :update, :destroy]
   after_action :verify_authorized
   # GET /users
   # GET /users.json
   def index
-    @users = User.all
-    authorize @users
+    @user = User.all
+    authorize @user
   end
 
   # GET /users/1

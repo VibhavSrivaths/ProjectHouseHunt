@@ -36,5 +36,5 @@ class User < ApplicationRecord
   end
 
   # Default devise modules
-  devise :database_authenticatable, :registerable, :recoverable,:validatable, :remembrable
+ # devise :database_authenticatable, :registerable, :recoverable,:validatable, :remembrable
 end
