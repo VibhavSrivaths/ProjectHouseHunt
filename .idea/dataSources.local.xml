@@ -8,7 +8,7 @@
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
     <data-source name="Rails ProjectHouseHunter: test" uuid="03b14600-a9be-4344-9ea8-923991b70b92">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
       <auth-required>false</auth-required>
     </data-source>
     <data-source name="Rails ProjectHouseHunter: development" uuid="47046cb1-7739-4ab9-b20f-2c61ba2e96a3">
@@ -18,7 +18,7 @@
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
     <data-source name="Rails ProjectHouseHunter: production" uuid="a5522b58-98dd-4f30-8dc6-6bc3833c2bb0">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
       <auth-required>false</auth-required>
     </data-source>
   </component>
