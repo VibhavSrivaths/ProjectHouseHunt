@@ -15,3 +15,10 @@
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
+//= require jquery3
+//= require popper
+//= require rails-ujs
+//= require turbolinks
+//= require activestorage
+//= require turbolinks
+//= require_tree .
